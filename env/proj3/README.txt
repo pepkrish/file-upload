@@ -2,6 +2,7 @@ proj3 README
 For ubuntu
 Run these commands using terminal
 1.sudo su
+go to the root directory
 2.cd ..
 3.cd ..
 4.sudo apt-get install python2.7-dev
